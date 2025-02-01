@@ -9,7 +9,7 @@ A small Tampermonkey script that automatically bypasses t.co links on X and Twit
 2. **Add the Script**:  
    - Click on the Tampermonkey icon in your browser and select **Dashboard**.
    - Click the **+** (Add a new script) button.
-   - Delete any template code that appears and paste in the contents of `bypass-tco.user.js` from this repository.
+   - Delete any template code that appears and paste in the contents of `[whatever i named it].user.js` from this repository.
    - Save the script.
 
 
